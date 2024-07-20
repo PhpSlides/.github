@@ -9,7 +9,9 @@ Your PHP sidekick! Master Routes, tame APIs, and conquer databases. It's your we
 
 ***Use PhpSlides in creating a real-time web projects 🎉***
 
-`composer create-project dconco/php_slides ProjectName` 📌
+```bash
+composer create-project dconco/php_slides ProjectName`
+```
 
 PhpSlides is a user-friendly PHP framework! It's recommended & a good practice for a beginner in starting with using PhpSlides framework! 💫
 
@@ -24,4 +26,4 @@ __PhpSlides is:__
 
 PhpSlides Revolution keeps increasing day-to-day 😲
 
-And it's all a Revolution 🥇
+**And it's all a Revolution 🥇**
