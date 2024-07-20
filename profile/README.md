@@ -1,12 +1,7 @@
-## Hi there 👋
+# <span align="center">Introducing PhpSlides:</span>
 
-<!--
+Your PHP sidekick! Master Routes, tame APIs, and conquer databases. It's your website's security superhero, shielding against sneaky files, thwarting XSS/CSRF, and giving SQL injections a taste of defeat! 🚀
 
-**Here are some ideas to get you started:**
+Use PhpSlides in creating a real-time web projects 🎉
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+composer create-project dconco/php_slides ProjectName
