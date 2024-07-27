@@ -1,11 +1,11 @@
-# <div align="center">Introducing PhpSlides:</div>
+# <div align="center">Introduction</div>
 
 <div style="width:100%">
   <img src='./phpslides-cover.png' width="100%" />
 </div>
 <br />
 
-Your PHP sidekick! Master Routes, tame APIs, and conquer databases. It's your website's security superhero, shielding against sneaky files, thwarting XSS/CSRF, and giving SQL injections a taste of defeat! 🚀
+**PhpSlides**: Your PHP sidekick! Master Routes, tame APIs, and conquer databases. It's your website's security superhero, shielding against sneaky files, thwarting XSS/CSRF, and giving SQL injections a taste of defeat! 🚀
 
 ***Use PhpSlides in creating a real-time web projects 🎉***
 
