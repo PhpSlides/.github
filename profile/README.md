@@ -1,29 +1,23 @@
-# <div align="center">Introduction</div>
+# <div align="center">PhpSlides</div>
 
 <div style="width:100%">
   <img src='./phpslides-cover.png' width="100%" />
 </div>
 <br />
 
-**PhpSlides**: Your PHP sidekick! Master Routes, tame APIs, and conquer databases. It's your website's security superhero, shielding against sneaky files, thwarting XSS/CSRF, and giving SQL injections a taste of defeat! 🚀
+## Introduction
 
-***Use PhpSlides in creating a real-time web projects 🎉***
+PhpSlides is a lightweight, easy-to-use full-stack framework that helps you build web applications quickly and efficiently.
+It follows the MVC architectural pattern, separating the application logic into models, views, and controllers to promote code organization and reusability.
 
-```bash
-composer create-project phpslides/phpslides ProjectName
-```
+Additionally, it provides the capability to write HTML, CSS, and JavaScript in a PHP-like way, making it easier to manage and maintain your front-end and back-end code together.
 
-PhpSlides is a user-friendly PHP framework! It's recommended & a good practice for a beginner in starting with using PhpSlides framework! 💫
+## Features
 
-__PhpSlides is:__
-- Recommended
-- Reliable
-- Secured 
-- Easy to learn
-- Fast
-- Stable
-- Great syntax
-
-PhpSlides Revolution keeps increasing day-to-day 😲
-
-**And it's all a Revolution 🥇**
+- **Full-Stack Development**: Seamlessly integrate front-end and back-end development by writing HTML, CSS, and JavaScript in a PHP-like syntax.
+- **Simple Routing**: Easily define routes and map them to controllers and actions.
+- **Modular Structure**: Organized directory structure for models, views, controllers, and other components.
+- **Database Abstraction**: Simple and flexible database handling with a query builder.
+- **Middleware Support**: Add middleware to handle authentication, logging, and other tasks.
+- **Event Handling**: Built-in event handling system for managing application events.
+- **Service Providers**: Easily manage and configure services like email, payment, caching, etc.
