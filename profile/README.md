@@ -19,5 +19,3 @@ Additionally, it provides the capability to write HTML, CSS, and JavaScript in a
 - **Modular Structure**: Organized directory structure for models, views, controllers, and other components.
 - **Database Abstraction**: Simple and flexible database handling with a query builder.
 - **Middleware Support**: Add middleware to handle authentication, logging, and other tasks.
-- **Event Handling**: Built-in event handling system for managing application events.
-- **Service Providers**: Easily manage and configure services like email, payment, caching, etc.
